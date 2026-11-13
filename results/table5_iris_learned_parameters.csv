@@ -1,0 +1,13 @@
+Species,Feature,Learned Mean (theta),Learned Variance (var),Learned Std (sigma)
+setosa,sepal length (cm),4.9886,0.1033,0.3214
+setosa,sepal width (cm),3.4257,0.1739,0.417
+setosa,petal length (cm),1.4857,0.0229,0.1515
+setosa,petal width (cm),0.24,0.0093,0.0962
+versicolor,sepal length (cm),5.9486,0.2408,0.4907
+versicolor,sepal width (cm),2.7314,0.0856,0.2925
+versicolor,petal length (cm),4.2371,0.2115,0.4599
+versicolor,petal width (cm),1.3086,0.0356,0.1888
+virginica,sepal length (cm),6.6829,0.4248,0.6518
+virginica,sepal width (cm),3.0086,0.1174,0.3426
+virginica,petal length (cm),5.6314,0.3227,0.5681
+virginica,petal width (cm),2.0686,0.0639,0.2527

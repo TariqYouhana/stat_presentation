@@ -1,0 +1,9 @@
+Word,Bernoulli True Ham,Bernoulli Est Ham,Bernoulli True Spam,Bernoulli Est Spam,Multinomial True Ham,Multinomial Est Ham,Multinomial True Spam,Multinomial Est Spam
+offer,0.05,0.0483,0.7,0.6193,0.02,0.0213,0.25,0.2471
+free,0.1,0.1051,0.8,0.8324,0.03,0.0298,0.25,0.2541
+money,0.05,0.054,0.65,0.6108,0.02,0.0228,0.2,0.1988
+click,0.05,0.0597,0.75,0.7614,0.03,0.026,0.2,0.2038
+meeting,0.7,0.7045,0.1,0.1136,0.25,0.2476,0.03,0.0307
+project,0.75,0.7273,0.15,0.142,0.25,0.2534,0.03,0.0273
+report,0.65,0.6051,0.1,0.0938,0.2,0.2051,0.02,0.0208
+schedule,0.8,0.7642,0.05,0.0455,0.2,0.1941,0.02,0.0174

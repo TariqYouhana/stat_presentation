@@ -1,0 +1,3 @@
+Condition,Log P('free' | Ham),Log P('schedule' | Spam),Test Doc Log P(Ham),Test Doc Log P(Spam),P(Ham | doc),P(Spam | doc),Classification Outcome
+Unsmoothed (alpha = 0),-inf (Count = 0),-inf (Count = 0),nan,nan,nan,nan,FAILS (NaN / undefined)
+Laplace Smoothed (alpha = 1),-2.4849,-2.4849,-0.0010,-6.9250,0.9990,0.0010,"Ham (Correct, P=0.9990)"

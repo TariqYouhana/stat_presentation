@@ -1,0 +1,3 @@
+Model,Accuracy,Ham Correct (TN),Ham as Spam (FP),Spam as Ham (FN),Spam Correct (TP)
+Bernoulli Naive Bayes,0.9767,146,4,3,147
+Multinomial Naive Bayes,1.0,150,0,0,150

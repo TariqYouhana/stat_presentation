@@ -1,0 +1,9 @@
+Quantity,Value
+Sample Size (n),1000
+Successes (k),686
+True p,0.7000
+Sample Mean (MLE p),0.6860
+Mean Absolute Error in p,0.0140
+Theoretical Variance p(1-p),0.2100
+Sample Variance MLE (ddof=0),0.2154
+Sample Variance Unbiased (ddof=1),0.2156

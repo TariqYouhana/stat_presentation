@@ -1,0 +1,5 @@
+Sample Size (n),Mean Absolute Error,Theoretical Std of Mean (sigma/sqrt(n))
+20,1.4178,1.7889
+100,0.7154,0.8
+1000,0.1826,0.253
+10000,0.0602,0.08
